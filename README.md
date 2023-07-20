@@ -1,14 +1,8 @@
 # Hardhat Security
 
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course. This part of the course is to help users understand basic security and some fundamentals of auditing.
+This course is to help users understand basic security and some fundamentals of auditing.
 
 This repo has a few contracts with big flaws, see if you can see them, and see if the tools help you find them!
-
-*This repo has been updated for Sepolia over Goerli.*
-
-*[⌨️ (31:28:32) Lesson 18: Security & Auditing ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=113312s)*
-
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
 - [Hardhat Security](#hardhat-security)
 - [What is an Audit?](#what-is-an-audit)
@@ -40,7 +34,7 @@ An audit is a security focused code review for looking for issues with your code
 
 # Help your auditors!
 
-When writing good code, you 100% need to follow these before sending you code to an audit.
+When writing good code, you 100% need to follow these before sending your code to an audit.
 
 [Tweet from legendary security expert Tincho](https://twitter.com/tinchoabbate/status/1400170232904400897)
 
